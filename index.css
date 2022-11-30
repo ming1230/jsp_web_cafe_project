@@ -1,0 +1,540 @@
+@import url("https://fonts.googleapis.com/css?family=Inter:400");
+
+.frame-1 {
+	align-items: flex-start;
+	background-color: var(--white);
+	border: 0.07vw none;
+	display: flex;
+	height: 91.11vw;
+	width: 100vw;
+}
+
+.hidden,
+.hidden * {
+	pointer-events: none;
+	visibility: hidden;
+}
+
+.flex-col {
+	align-items: flex-end;
+	background-color: var(--white);
+	display: flex;
+	flex-direction: column;
+	min-height: 91.11vw;
+	padding: 0.9vw 0;
+	width: 100vw;
+}
+	
+.overlap-group-container-1 {
+	align-items: flex-start;
+	display: flex;
+	margin-right: 7.15vw;
+	margin-top: 2.57vw;
+	min-width: 64.03vw;
+}
+
+.overlap-group3 {
+	align-items: flex-start;
+	background-image: 
+	url(https://anima-uploads.s3.amazonaws.com/projects/6386c14b2a61b1d971b49e46/releases/6386c1bad821b1587ca84701x.png);
+	background-size: 100% 100%;
+	display: flex;
+	height: 4.31vw;
+	min-width: 3.89vw;
+	padding: 1.48vw 1.62vw;
+}
+
+.x1 {
+	height: 1.18vw;
+	width: 8.42vw;
+}
+
+.overlap-group6 {
+	align-items: flex-start;
+	background-image: url(https://anima-uploads.s3.amazonaws.com/projects/6386c14b2a61b1d971b49e46/releases/6386c1bad821b1587ca8b949/img/rectangle-7801x.png);
+	background-size: 100% 100%;
+	display: flex;
+	height: 4.31vw;
+	margin-left: 38.26vw;
+	min-width: 14.1vw; padding: 1.19vw 4.27vw;	
+}
+
+.image {
+	height: 1.88vw;
+	width: 5.35vw;
+}
+
+.overlap-group18 {
+	align-items: flex-start;
+	background-image: url(https://anima-uploads.s3.amazonaws.com/projects/6386c14b2a61b1d971b49e46/releases/6386c1bad821b1587ca8b949/img/rectangle-4701x.png);
+	background-size: 100% 100%; display: flex;
+	height: 4.31vw;
+	justify-content: flex-end;
+	min-width: 3.89vw;
+	padding: 1.46vw 1.51vw;
+}
+	
+.x2{
+height: 1.18vw;
+width: 8.76vw;
+}
+
+.overlap-group4 {
+	align-items: flex-start;
+	background-image: url(https://anima-uploads.s3.amazonaws.com/projects/6386c14b2a61b1d971b49e46/releases/6386c1bad821b1587ca8b949/img/rectangle-4701x.png);
+	background-size: 100% 100%;
+	display: flex;
+	height: 4.31vw;
+	justify-content: flex-end;
+	min-width: 3.89vw;
+	padding: 1.46vw 1.46vw;
+}
+
+.x3 {
+	height: 1.18vw;
+	width: 8.76vw;
+}
+
+.flex-col-1 {
+	align-items: flex-start;
+	display: flex;
+	flex-direction: column;
+	min-height: 70.21vw;
+	width: 100vw;
+}
+
+.text-container { 
+	align-items: flex-end; 
+	display: flex;
+	height: 4.31vw;
+	margin-left: 1.25vw;
+	min-width: 25.76vw;
+}
+
+.text-1-1 {
+	align-self: flex-start;
+	color: var(--black);
+	font-family: var(--font-family-inter); 
+	font-size: var(--font-size-xx1); 
+	font-weight: 400;
+	letter-spacing: 0;
+	line-height: normal;
+	min-height: 3.47vw;
+	width: 13.19vw;
+}
+
+.text-6 {
+	letter-spacing: 0;
+	line-height: normal;
+	margin-left: 1.84vw;
+	min-height: 3.47vw;
+	width: 4.93vw;
+}
+.text-5 {
+	letter-spacing: 0;
+	line-height: normal;
+	min-height: 3.47vw;
+	width: 6.6vw;
+}
+
+.image-6 {
+	height: 16.74vw;
+	object-fit: cover;
+	width: 100vw;
+}
+
+
+.flex-row {
+	align-items: flex-end;
+	display: flex;
+	height: 44.79vw;
+	margin-left: 1.25vw;
+	margin-top: 4.38vw;
+	min-width: 91.67vw;
+}
+
+.flex-col-2 {
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+	min-height: 44.79vw;
+	width: 18.06vw;
+}
+
+.text-22 {
+	letter-spacing: 0;
+	line-height: normal;
+	margin-right: 1.04vw;
+	margin-top: 3.47vw;
+	min-height: 3.47vw;
+	text-align: center;
+	width: 15.35vw;
+}
+
+.line-34 {
+	height: 8.21vw; 
+	margin-top: 6.81vw;
+	width: 18.06vw;
+}
+
+.line-33 {
+	height: 0.21vw;
+	width: 18.86vw;
+}
+
+.text-container-1 {
+	align-items: flex-start;
+	background-color: var(--white); 
+	order: 0.07vw solid;
+	border-color: var(--mist-gray); 
+	display: flex;
+	flex-direction: column;
+	min-height: 30.63vw;
+	padding: 0.69vw 0.76vw; 
+	width: 18.86vw;
+}
+
+.text {
+	letter-spacing: 0;
+	line-height: normal;
+	min-height: 2.88vw;
+	width: 6.67vw;
+}
+
+.text-4 {
+	letter-spacing: 0;
+	line-height: normal;
+	margin-top: 0.07vw;
+	min-height: 2.08vw;
+	width: 6.67vw;
+}
+
+.overlap-group-container { 
+	align-items: flex-start; 
+	display: flex;
+	flex-direction: column;
+	margin-left: 3.4vw;
+	min-height: 44.58vw; 
+	width: 70.14vw;
+}
+
+.overlap-group1 {
+	height: 40.76vw;
+	position: relative;
+	width: 78.14vw;
+}
+
+.rectangle-3 {
+	background-color: var(--white);
+	border: 0.07vw solid;
+	border-color: var(--mist-gray);
+	height: 4.17vw;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 70.14vw;
+}
+
+.line-8 {
+	height: 40.14vw;
+	left: 6.11vw;
+	position: absolute;
+	top: 0;
+	width: 0.07vw;
+}
+
+.text-10 { 
+	left: 1.81vw; 
+	letter-spacing: 0; 
+	line-height: normal; 
+	position: absolute;
+	top: 10.9vw;
+	width: 2.57vw;
+}
+
+.text-1 {
+	left: 0.62vw;
+	letter-spacing: 0; 
+	line-height: normal;
+	position: absolute;
+	top: 1.84vw;
+	width: 4.86vw;
+}
+
+.rectangle-6 {
+	height: 2.15vw; 
+	left: 1.04vw;
+	position: absolute;
+	top: 4.93vw;
+	width: 4.03vw;
+}
+
+.rectangle-5 {
+	background-color: var(--white); 
+	border: 0.87vw solid;
+	border-color: var(--mist-gray); 
+	height: 26.94vw;
+	left: 0;
+	position: absolute;
+	top: 13.82vw;
+	width: 78.14vw;
+}
+
+.number {
+	left: 2.64vw;
+	letter-spacing: 0; 
+	line-height: normal;
+	position: absolute;
+	top: 14.37vw;
+	width: 0.83vw;
+}
+
+.text-16 {
+	left: 7.92vw;
+	letter-spacing: 0;
+	line-height: normal;
+	position: absolute;
+	top: 5.21vw;
+	width: 34.03vw;
+}
+.text-18 {
+	left: 46.53vw;
+	letter-spacing: 0;
+	line-height: normal;
+	position: absolute;
+	top: 0.97vw;
+	width: 4.93vw;
+}
+
+.text-7 {
+	left: 22.43vw; 
+	letter-spacing: 0; 
+	line-height: normal; 
+	position: absolute;
+	top: 1.11vw;
+	width: 3.26vw;
+} 
+
+.text-17 {
+	left: 7.85vw; 
+	letter-spacing: 0; 
+	line-height: normal;
+	position: absolute;
+	top: 8.86vw;
+	width: 34.83vw;
+}
+
+.rectangle-9 {
+	height: 2.15vw; 
+	left: 1.84vw;
+	position: absolute;
+	top: 7.78vw;
+	width: 4.83vw;
+}
+
+.text-11 {
+	left: 1.81vw;
+	letter-spacing: 0; 
+	line-height: normal; 
+	position: absolute;
+	top: 5.21vw;
+	width: 2.57vw;
+}
+
+.text-14 {
+	left: 7.85vw;
+	letter-spacing: 0;
+	line-height: normal;
+	position: absolute;
+	top: 16.46vw;
+	width: 34.83vw;
+}
+
+.text-9 {
+	left: 1.81vw;
+	letter-spacing: 0;
+	line-height: normal;
+	position: absolute;
+	top: 8.86vw;
+	width: 2.57vw;
+}
+
+.text-15 {
+	left: 7.92vw; 
+	letter-spacing: 0;
+	line-height: normal;
+	position: absolute;
+	top: 10.9vw; 
+	width: 34.03vw;
+}
+
+.rectangle-10 {
+	height: 2.15vw;
+	left: 1.04vw;
+	position: absolute;
+	top: 10.69vw;
+	width: 4.83vw;
+}
+
+.rectangle-4 {
+	background-color: #efefef;
+	border: 0.07vw none;
+	height: 9.93vw;
+	left: 0;
+	position: absolute;
+	top: 3.96vw;
+	width: 70.14vw;
+}
+
+.line-5 {
+	height: 40.14vw;
+	left: 56.84vw;
+	position: absolute;
+	top: 0;
+	width: 0.07vw;
+}
+
+.text-19 {
+	left: 60.62vw; 
+	letter-spacing: 0;
+	line-height: normal;
+	position: absolute;
+	top: 1.84vw;
+	width: 4.93vw;
+}
+
+.text-13 {
+	left: 7.85vw;
+	letter-spacing: 0; 
+	line-height: normal; 
+	position: absolute;
+	top: 14.37vw;
+	width: 34.83vw;
+}
+
+.number-1 {
+	left: 2.64vw;
+	letter-spacing: 0;
+	line-height: normal;
+	position: absolute;
+	top: 16.46vw;
+	width: 0.83vw;
+}
+
+.line-7 {
+	height: 40.14vw;
+	left: 0; 
+	position: absolute;
+	top: 0;
+	width: 0.07vw;
+}
+
+.overlap-group11 {
+	height: 3.82vw;
+	position: relative;
+	width: 70.14vw;
+}
+
+.overlap-group8 {
+	height: 3.47vw; 
+	left: 0;
+	position: absolute;
+	top: 0.35vw;
+	width: 70.14vw;
+}
+
+.text-20 {
+	left: 10vw;
+	letter-spacing: 0; 
+	line-height: normal; 
+	position: absolute; 
+	top: 0;
+	width: 7.57vw;
+}
+
+.line-3 {
+	height: 0.21vw;
+	left: 0;
+	position: absolute;
+	top: 3.26vw;
+	width: 70.14vw;
+}
+
+.text-21 {
+	left: 0;
+	letter-spacing: 0; 
+	line-height: normal; 
+	position: absolute; 
+	top: 0;
+	width: 10vw;
+}
+
+.line-6 {
+	height: 40.14vw;
+	margin-bottom: 0.62vw;
+	width: 0.07vw;
+}
+
+.overlap-group-container-2 { 
+	align-items: flex-start; 
+	align-self: center; 
+	display: flex;
+	margin-left: 13.47vw;
+	margin-top: 4.1vw;
+	min-width: 55.83vw;
+}
+
+.overlap-group7 {
+	align-items: flex-start;
+	background-image: url(https://anima-uploads.s3.amazonaws.com/projects/6386c14b2a61b1d971b49e46/releases/6386c1bad821b1587ca8b949/img/rectangle-4501x.png);
+    background-size: 100% 100%;
+    display: flex;
+    height: 4.31vw;
+    margin-left: 2.22vw;
+    min-width: 32.01vw;
+    padding: 1.34vw 1.49vw;
+}
+
+.image-2 {
+	height: 1.6vw;
+	width: 16.25vw;
+}
+
+.overlap-group2 {
+	align-items: flex-start;
+	background-image: url(https://anima-uploads.s3.amazonaws.com/projects/6386c14b2a61b1d971b49e46/releases/6386c1bad821b1587ca8b949/img/rectangle-4601x.png);
+	background-size: 100% 100%;
+	display: flex;
+	height: 4.31vw;
+	min-width: 5.9vw;
+	padding: 1.34vw 1.49vw;
+}
+
+.image-3 {
+	height: 1.6vw;
+	width: 2.92vw;
+}
+
+.overlap-group9 {
+	align-items: flex-start;
+	background-image: url(https://anima-uploads.s3.amazonaws.com/projects/6386c14b2a61b1d971b49e46/releases/6386c1bad821b1587ca8b949/img/rectangle-4401x.png);
+	background-size: 100% 100%;
+	display: flex;
+	gap: 8.61vw;
+	height: 4.31vw;
+	min-width: 15.69vw;
+	padding: 1.34vw 1.84vw;
+}
+
+.x {
+	align-self: center; 
+	height: 0.97vw; 
+	margin-bottom: 0.02vw; 
+	width: 1.11vw;
+}
+
+.image-1 {
+	height: 1.6vw;
+	width: 3.06vw;
+}
+
