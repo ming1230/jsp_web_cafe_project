@@ -54,7 +54,7 @@
          <!-- if 로그인 o, <center style="pading:100px; font-size:30px;"> (아이디) 님 </center>  -->
       </div>
       <div style="width: 70%;">
-	      <div style="width:90%;margin-top: 20px; margin-bottom: 20px;">
+	      <div style="width:80%;margin-top: 20px; margin-bottom: 20px;">
 	      	<button type="button" class="btn btn-outline-dark"
 	             onclick="location.href='Main.jsp'">수정</button>
 	         <button type="button" class="btn btn-outline-dark"
@@ -62,7 +62,7 @@
 	         <button type="button" class="btn btn-outline-dark"
 	            style="position: relative; float: right;" onclick="location.href='Main.jsp'">목록</button>
 	       </div>
-	         <div style="width: 90%">
+	         <div style="width: 80%">
 	            <div class="form-floating" style="margin-bottom: 10px">
 	               <div style="border: 1px solid; border-top: 2px solid #FFD400; border-radius:5px; padding: 10px; height:100px; font-size:20px">제목</div>
 	            </div>
